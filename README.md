@@ -8,8 +8,8 @@
 ## you can see this repo in [This Demo](https://erfan7255.github.io/Landing-Page/)
 ---
 
-![photo1](public/imegs/main.png)
-![photo1](public/imegs/mobileFirst.png)
+![photo1](./public/imegs/main.png)
+![photo1](./public/imegs/mobileFirst.png)
 
 ---
 
